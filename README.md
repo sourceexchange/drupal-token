@@ -1,2 +1,2 @@
-soex-token
+drupal-token
 ==========
